@@ -1,11 +1,10 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 ᴍᴀᴊᴊᴀ 😈 ᴇxᴘʀᴇss 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph/file/2cb0fdca5324d578f0e91.jpg">
 </p>
-
 <p align="center">
 <a href="https://github.com/AnonymousR1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/AnonymousR1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
@@ -16,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://telegra.ph/file/56e1210720ba043e6fe22.jpg">
 </p>
 
 <h3 align="center">
